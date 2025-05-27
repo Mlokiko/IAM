@@ -1,0 +1,14 @@
+{
+  "name": "iam",
+  "version": "1.0.0",
+  "description": "Program to help people with mental ilness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wiktor Piechowiak, Klaudia Gawrysiak, Aleksander Chocaj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
